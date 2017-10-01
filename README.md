@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hai,ini adalah hasil saya belajar rails API.
 
-Things you may want to cover:
+saya sempat menemukan error denggan 'bundle', setelah saya coba coba lagi, entah mengapa kalo install gem lain (selain faker) lancar :v jadi terpaksa install global, gem install faker, kemudian bundle install
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+recruitments:
+faker
